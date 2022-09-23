@@ -1,0 +1,38 @@
+C:\Users\HALIT\source\repos\UsersApi\UsersApi.Businness\bin\Debug\net6.0\Users.Businness.deps.json
+C:\Users\HALIT\source\repos\UsersApi\UsersApi.Businness\bin\Debug\net6.0\Users.Businness.dll
+C:\Users\HALIT\source\repos\UsersApi\UsersApi.Businness\bin\Debug\net6.0\Users.Businness.pdb
+C:\Users\HALIT\source\repos\UsersApi\UsersApi.Businness\bin\Debug\net6.0\Users.Core.dll
+C:\Users\HALIT\source\repos\UsersApi\UsersApi.Businness\bin\Debug\net6.0\Users.DataAccess.dll
+C:\Users\HALIT\source\repos\UsersApi\UsersApi.Businness\bin\Debug\net6.0\Users.Entities.dll
+C:\Users\HALIT\source\repos\UsersApi\UsersApi.Businness\bin\Debug\net6.0\Users.DataAccess.pdb
+C:\Users\HALIT\source\repos\UsersApi\UsersApi.Businness\bin\Debug\net6.0\Users.Entities.pdb
+C:\Users\HALIT\source\repos\UsersApi\UsersApi.Businness\bin\Debug\net6.0\Users.Core.pdb
+C:\Users\HALIT\source\repos\UsersApi\UsersApi.Businness\obj\Debug\net6.0\Users.Businness.csproj.AssemblyReference.cache
+C:\Users\HALIT\source\repos\UsersApi\UsersApi.Businness\obj\Debug\net6.0\Users.Businness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HALIT\source\repos\UsersApi\UsersApi.Businness\obj\Debug\net6.0\Users.Businness.AssemblyInfoInputs.cache
+C:\Users\HALIT\source\repos\UsersApi\UsersApi.Businness\obj\Debug\net6.0\Users.Businness.AssemblyInfo.cs
+C:\Users\HALIT\source\repos\UsersApi\UsersApi.Businness\obj\Debug\net6.0\Users.Businness.csproj.CoreCompileInputs.cache
+C:\Users\HALIT\source\repos\UsersApi\UsersApi.Businness\obj\Debug\net6.0\Users.Businness.csproj.CopyComplete
+C:\Users\HALIT\source\repos\UsersApi\UsersApi.Businness\obj\Debug\net6.0\Users.Businness.dll
+C:\Users\HALIT\source\repos\UsersApi\UsersApi.Businness\obj\Debug\net6.0\refint\Users.Businness.dll
+C:\Users\HALIT\source\repos\UsersApi\UsersApi.Businness\obj\Debug\net6.0\Users.Businness.pdb
+C:\Users\HALIT\source\repos\UsersApi\UsersApi.Businness\obj\Debug\net6.0\ref\Users.Businness.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\UsersApi.Businness\bin\Debug\net6.0\Users.Businness.deps.json
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\UsersApi.Businness\bin\Debug\net6.0\Users.Businness.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\UsersApi.Businness\bin\Debug\net6.0\Users.Businness.pdb
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\UsersApi.Businness\bin\Debug\net6.0\Users.Core.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\UsersApi.Businness\bin\Debug\net6.0\Users.DataAccess.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\UsersApi.Businness\bin\Debug\net6.0\Users.Entities.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\UsersApi.Businness\bin\Debug\net6.0\Users.DataAccess.pdb
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\UsersApi.Businness\bin\Debug\net6.0\Users.Entities.pdb
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\UsersApi.Businness\bin\Debug\net6.0\Users.Core.pdb
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\UsersApi.Businness\obj\Debug\net6.0\Users.Businness.csproj.AssemblyReference.cache
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\UsersApi.Businness\obj\Debug\net6.0\Users.Businness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\UsersApi.Businness\obj\Debug\net6.0\Users.Businness.AssemblyInfoInputs.cache
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\UsersApi.Businness\obj\Debug\net6.0\Users.Businness.AssemblyInfo.cs
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\UsersApi.Businness\obj\Debug\net6.0\Users.Businness.csproj.CoreCompileInputs.cache
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\UsersApi.Businness\obj\Debug\net6.0\Users.Businness.csproj.CopyComplete
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\UsersApi.Businness\obj\Debug\net6.0\Users.Businness.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\UsersApi.Businness\obj\Debug\net6.0\refint\Users.Businness.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\UsersApi.Businness\obj\Debug\net6.0\Users.Businness.pdb
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\UsersApi.Businness\obj\Debug\net6.0\ref\Users.Businness.dll

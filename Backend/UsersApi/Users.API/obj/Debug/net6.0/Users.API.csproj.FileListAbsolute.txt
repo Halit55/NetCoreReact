@@ -1,0 +1,164 @@
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Users.API.exe
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\appsettings.json
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Users.API.deps.json
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Users.API.runtimeconfig.json
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Users.API.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Users.API.pdb
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Users.Businness.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Users.Core.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Users.DataAccess.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Users.Entities.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Users.Businness.pdb
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Users.Entities.pdb
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Users.Core.pdb
+C:\Users\HALIT\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Users.DataAccess.pdb
+C:\Users\HALIT\source\repos\UsersApi\Users.API\obj\Debug\net6.0\Users.API.csproj.AssemblyReference.cache
+C:\Users\HALIT\source\repos\UsersApi\Users.API\obj\Debug\net6.0\Users.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HALIT\source\repos\UsersApi\Users.API\obj\Debug\net6.0\Users.API.AssemblyInfoInputs.cache
+C:\Users\HALIT\source\repos\UsersApi\Users.API\obj\Debug\net6.0\Users.API.AssemblyInfo.cs
+C:\Users\HALIT\source\repos\UsersApi\Users.API\obj\Debug\net6.0\Users.API.csproj.CoreCompileInputs.cache
+C:\Users\HALIT\source\repos\UsersApi\Users.API\obj\Debug\net6.0\Users.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HALIT\source\repos\UsersApi\Users.API\obj\Debug\net6.0\Users.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HALIT\source\repos\UsersApi\Users.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HALIT\source\repos\UsersApi\Users.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HALIT\source\repos\UsersApi\Users.API\obj\Debug\net6.0\scopedcss\bundle\Users.API.styles.css
+C:\Users\HALIT\source\repos\UsersApi\Users.API\obj\Debug\net6.0\Users.API.csproj.CopyComplete
+C:\Users\HALIT\source\repos\UsersApi\Users.API\obj\Debug\net6.0\Users.API.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\obj\Debug\net6.0\refint\Users.API.dll
+C:\Users\HALIT\source\repos\UsersApi\Users.API\obj\Debug\net6.0\Users.API.pdb
+C:\Users\HALIT\source\repos\UsersApi\Users.API\obj\Debug\net6.0\Users.API.genruntimeconfig.cache
+C:\Users\HALIT\source\repos\UsersApi\Users.API\obj\Debug\net6.0\ref\Users.API.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Users.API.exe
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Users.API.deps.json
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Users.API.runtimeconfig.json
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Users.API.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Users.API.pdb
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Users.Businness.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Users.Core.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Users.DataAccess.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Users.Entities.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Users.Businness.pdb
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Users.Entities.pdb
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Users.Core.pdb
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\bin\Debug\net6.0\Users.DataAccess.pdb
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\obj\Debug\net6.0\Users.API.csproj.AssemblyReference.cache
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\obj\Debug\net6.0\Users.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\obj\Debug\net6.0\Users.API.AssemblyInfoInputs.cache
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\obj\Debug\net6.0\Users.API.AssemblyInfo.cs
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\obj\Debug\net6.0\Users.API.csproj.CoreCompileInputs.cache
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\obj\Debug\net6.0\Users.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\obj\Debug\net6.0\Users.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\obj\Debug\net6.0\scopedcss\bundle\Users.API.styles.css
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\obj\Debug\net6.0\Users.API.csproj.CopyComplete
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\obj\Debug\net6.0\Users.API.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\obj\Debug\net6.0\refint\Users.API.dll
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\obj\Debug\net6.0\Users.API.pdb
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\obj\Debug\net6.0\Users.API.genruntimeconfig.cache
+C:\Users\Hilmi Öztürkel\source\repos\UsersApi\Users.API\obj\Debug\net6.0\ref\Users.API.dll
